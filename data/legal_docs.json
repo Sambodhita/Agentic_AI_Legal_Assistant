@@ -1,0 +1,302 @@
+[
+  {
+    "id": "doc_001",
+    "title": "Non-Disclosure Agreement (NDA)",
+    "category": "contract_types",
+    "content": "A Non-Disclosure Agreement (NDA) is a contract that protects confidential information shared between parties. It answers questions like: what information must be kept secret, who can access it, and how long confidentiality lasts. NDAs typically define confidential information, exclude public or already-known data, and require the receiving party to protect the information. They also include duration (often 2–5 years), permitted disclosures (such as to lawyers), and obligations to return or destroy information. NDAs are commonly used in business negotiations, employment, and partnerships to prevent misuse of sensitive data."
+  },
+  {
+    "id": "doc_002",
+    "title": "Employment Contract",
+    "category": "contract_types",
+    "content": "An employment contract defines the relationship between an employer and employee. It answers questions like: what are the employee’s duties, how much will they be paid, and when can employment be terminated. It includes job role, salary, benefits, working hours, and termination conditions. It may also contain clauses on confidentiality, intellectual property ownership, non-compete, and non-solicitation. In India, employment contracts operate alongside labor laws. A clear employment contract helps prevent disputes by defining expectations and legal obligations."
+  },
+  {
+    "id": "doc_003",
+    "title": "Liability Clause",
+    "category": "contract_law",
+    "content": "A liability clause limits how much one party can be held responsible for damages in a contract. It answers questions like: what happens if something goes wrong, and how much can be claimed. These clauses often cap financial liability or exclude indirect and consequential damages. They are critical for risk allocation in commercial agreements. For example, a contract may limit liability to the total fees paid. Without a liability clause, a party could face unlimited financial exposure."
+  },
+  {
+    "id": "doc_004",
+    "title": "Indemnity Clause",
+    "category": "contract_law",
+    "content": "An indemnity clause requires one party to compensate another for losses arising from specific events. It answers questions like: who pays if a third-party claim arises or if a breach causes damage. Indemnity clauses often cover legal costs, damages, and liabilities. They are commonly used to shift risk from one party to another. Poorly drafted indemnities can create unlimited financial exposure, so they are heavily negotiated in contracts."
+  },
+  {
+    "id": "doc_005",
+    "title": "Termination Clause",
+    "category": "contract_law",
+    "content": "A termination clause explains how a contract can be ended. It answers questions like: when can a contract be terminated, how much notice is required, and what happens after termination. It may include termination for convenience, termination for breach, and cure periods. It also defines consequences such as final payments, return of property, and survival of obligations like confidentiality. A clear termination clause ensures both parties understand exit conditions."
+  },
+  {
+    "id": "doc_006",
+    "title": "Jurisdiction Clause",
+    "category": "contract_law",
+    "content": "A jurisdiction clause specifies which courts will handle disputes. It answers questions like: where will legal proceedings take place. This clause ensures clarity and avoids conflicts between legal systems. It is often paired with a governing law clause, which defines which laws apply. Choosing jurisdiction carefully is important because different courts interpret contracts differently."
+  },
+  {
+    "id": "doc_007",
+    "title": "Force Majeure Clause",
+    "category": "contract_law",
+    "content": "A force majeure clause protects parties when unforeseen events prevent contract performance. It answers questions like: what happens if a pandemic, natural disaster, or war disrupts obligations. These clauses typically list covered events, require notice, and may allow suspension or termination if disruption continues. Without this clause, parties may still be held liable for non-performance."
+  },
+  {
+    "id": "doc_008",
+    "title": "Material Adverse Change Clause",
+    "category": "contract_law",
+    "content": "A Material Adverse Change (MAC) clause allows a party to exit or renegotiate a contract if a significant negative event affects the other party. It answers questions like: can I cancel if the other party’s financial condition worsens. MAC clauses are common in mergers and acquisitions. They are often heavily negotiated because defining what qualifies as 'material' can be subjective."
+  },
+  {
+    "id": "doc_009",
+    "title": "Non-Compete Clause",
+    "category": "employment_law",
+    "content": "A non-compete clause restricts a party from engaging in competing activities after a contract ends. It answers questions like: can an employee join a competitor or start a competing business. These clauses usually define time limits, geographic scope, and restricted activities. In India, post-employment non-competes are generally unenforceable, making their practical impact limited."
+  },
+  {
+    "id": "doc_010",
+    "title": "Arbitration Clause",
+    "category": "contract_law",
+    "content": "An arbitration clause requires disputes to be resolved outside of court through arbitration. It answers questions like: how will disputes be settled. Arbitration is typically faster and more private than litigation. The clause usually specifies the seat of arbitration, governing rules, and number of arbitrators."
+  },
+  {
+    "id": "doc_011",
+    "title": "Confidentiality Clause",
+    "category": "contract_law",
+    "content": "A confidentiality clause ensures that sensitive information shared during a contract is protected. It answers questions like: what information must be kept secret and what happens if it is disclosed. It defines confidential information, obligations, and consequences of breach. Unlike an NDA, this clause exists within a broader contract."
+  },
+  {
+    "id": "doc_012",
+    "title": "Intellectual Property Clause",
+    "category": "ip_law",
+    "content": "An intellectual property clause defines who owns work created during a contract. It answers questions like: who owns inventions, designs, or content produced. It may include assignment or licensing provisions and address pre-existing IP. Clear IP clauses prevent disputes over ownership."
+  },
+  {
+    "id": "doc_013",
+    "title": "Payment Terms Clause",
+    "category": "contract_law",
+    "content": "A payment terms clause defines how and when payments must be made. It answers questions like: when is payment due and what happens if payment is late. It includes due dates, methods, penalties, and installment structures. Clear payment terms reduce financial disputes."
+  },
+  {
+    "id": "doc_014",
+    "title": "Breach of Contract",
+    "category": "contract_law",
+    "content": "A breach of contract occurs when a party fails to meet its obligations. It answers questions like: what happens if someone does not follow the agreement. Breaches can be minor or material. Remedies may include damages, termination, or legal enforcement."
+  },
+  {
+    "id": "doc_015",
+    "title": "Rescission of Contract",
+    "category": "contract_law",
+    "content": "Rescission cancels a contract and restores both parties to their original position. It answers questions like: can a contract be undone. It is commonly used in cases of fraud, misrepresentation, or mistake."
+  },
+  {
+    "id": "doc_016",
+    "title": "Consideration in Contracts",
+    "category": "contract_law",
+    "content": "Consideration is something of value exchanged between parties in a contract. It answers questions like: what does each party give in return for the agreement. Consideration can be money, services, goods, or promises. Without consideration, a contract is generally not legally enforceable. For example, a promise to gift something without receiving anything in return is usually not a contract. Courts use consideration to distinguish enforceable agreements from informal promises."
+  },
+  {
+    "id": "doc_017",
+    "title": "Offer in Contract Law",
+    "category": "contract_law",
+    "content": "An offer is a clear proposal made by one party to another to enter into a contract. It answers questions like: when does a contract process begin. The offer must be definite and communicated. It can be accepted, rejected, or countered. Without a valid offer, no contract can be formed."
+  },
+  {
+    "id": "doc_018",
+    "title": "Acceptance in Contract Law",
+    "category": "contract_law",
+    "content": "Acceptance occurs when one party agrees to the exact terms of an offer. It answers questions like: when is a contract legally formed. Acceptance must match the offer exactly and be communicated clearly. Any change becomes a counteroffer. Silence is generally not acceptance unless specified."
+  },
+  {
+    "id": "doc_019",
+    "title": "Capacity to Contract",
+    "category": "contract_law",
+    "content": "Capacity refers to a party’s legal ability to enter a contract. It answers questions like: who can legally sign a contract. Individuals must be of legal age, sound mind, and not disqualified by law. Contracts involving minors or mentally incapacitated persons may be void or voidable."
+  },
+  {
+    "id": "doc_020",
+    "title": "Misrepresentation",
+    "category": "contract_law",
+    "content": "Misrepresentation occurs when a false statement induces a party to enter a contract. It answers questions like: what if I was misled into signing. Types include innocent, negligent, and fraudulent misrepresentation. Remedies may include rescission or damages depending on severity."
+  },
+  {
+    "id": "doc_021",
+    "title": "Void Contracts",
+    "category": "contract_law",
+    "content": "A void contract is not legally enforceable from the beginning. It answers questions like: when is a contract invalid from the start. Examples include illegal agreements or contracts without consideration."
+  },
+  {
+    "id": "doc_022",
+    "title": "Voidable Contracts",
+    "category": "contract_law",
+    "content": "A voidable contract is valid until one party chooses to cancel it. It answers questions like: when can I undo a contract. Common reasons include coercion, misrepresentation, or undue influence."
+  },
+  {
+    "id": "doc_023",
+    "title": "Liquidated Damages Clause",
+    "category": "contract_law",
+    "content": "A liquidated damages clause specifies a pre-agreed amount payable on breach. It answers questions like: what compensation is due if the contract is broken. It must reflect a genuine estimate of loss, not a punishment."
+  },
+  {
+    "id": "doc_024",
+    "title": "Penalty Clause",
+    "category": "contract_law",
+    "content": "A penalty clause imposes excessive charges for breach. It answers questions like: can contracts punish breaches financially. Courts often refuse to enforce penalties if they are not a reasonable estimate of loss."
+  },
+  {
+    "id": "doc_025",
+    "title": "Entire Agreement Clause",
+    "category": "contract_law",
+    "content": "An entire agreement clause states that the written contract represents the full agreement. It answers questions like: can earlier discussions be used in disputes. This clause prevents reliance on prior verbal or written statements."
+  },
+  {
+    "id": "doc_026",
+    "title": "Non-Solicitation Clause",
+    "category": "employment_law",
+    "content": "A non-solicitation clause prevents a party from recruiting employees or clients after a contract ends. It answers questions like: can I approach former clients or coworkers. These clauses are generally more enforceable than non-competes."
+  },
+  {
+    "id": "doc_027",
+    "title": "Independent Contractor Clause",
+    "category": "contract_types",
+    "content": "This clause defines that a service provider is not an employee. It answers questions like: am I entitled to employee benefits. It helps avoid misclassification and legal liability."
+  },
+  {
+    "id": "doc_028",
+    "title": "Warranty Clause",
+    "category": "contract_law",
+    "content": "A warranty clause guarantees certain facts or performance standards. It answers questions like: what assurances are provided. Breach of warranty may lead to damages but not necessarily termination."
+  },
+  {
+    "id": "doc_029",
+    "title": "Representations Clause",
+    "category": "contract_law",
+    "content": "Representations are statements of fact made before or within a contract. They answer questions like: what facts were relied upon when entering the contract. False representations can lead to misrepresentation claims."
+  },
+  {
+    "id": "doc_030",
+    "title": "Cure Period Clause",
+    "category": "contract_law",
+    "content": "A cure period allows a party time to fix a breach before termination. It answers questions like: do I get a chance to correct mistakes. Typical cure periods are 15–30 days."
+  },
+  {
+    "id": "doc_031",
+    "title": "Unlimited Liability Risk",
+    "category": "risk_assessment",
+    "content": "Unlimited liability means a party has no cap on financial exposure. It answers questions like: can I lose more than the contract value. This is a high-risk clause because damages could exceed the contract amount significantly. Businesses typically negotiate liability caps to avoid catastrophic losses."
+  },
+  {
+    "id": "doc_032",
+    "title": "Limitation of Liability Cap",
+    "category": "risk_assessment",
+    "content": "A limitation of liability cap restricts the maximum damages payable under a contract. It answers questions like: what is the maximum risk exposure. Caps are often set to contract value or fees paid in the last 12 months."
+  },
+  {
+    "id": "doc_033",
+    "title": "Consequential Damages Exclusion",
+    "category": "contract_law",
+    "content": "This clause excludes liability for indirect or consequential damages. It answers questions like: can I claim lost profits or business opportunities. These damages are often excluded to limit unpredictable losses."
+  },
+  {
+    "id": "doc_034",
+    "title": "IP Assignment Clause",
+    "category": "ip_law",
+    "content": "An IP assignment clause transfers ownership of intellectual property from one party to another. It answers questions like: who owns the work created. Assignment gives full ownership rights to the receiving party."
+  },
+  {
+    "id": "doc_035",
+    "title": "IP License Clause",
+    "category": "ip_law",
+    "content": "An IP license clause grants permission to use intellectual property without transferring ownership. It answers questions like: can I use but not own the work. Licenses can be exclusive or non-exclusive."
+  },
+  {
+    "id": "doc_036",
+    "title": "Background IP",
+    "category": "ip_law",
+    "content": "Background IP refers to intellectual property owned before a contract begins. It answers questions like: do I lose my pre-existing work. Contracts should clearly exclude background IP from assignment."
+  },
+  {
+    "id": "doc_037",
+    "title": "Data Protection Clause",
+    "category": "compliance",
+    "content": "A data protection clause defines how personal data is handled. It answers questions like: how is user data stored and protected. It includes security obligations, breach notification, and compliance with laws like GDPR or India’s DPDP Act."
+  },
+  {
+    "id": "doc_038",
+    "title": "Data Breach Notification",
+    "category": "compliance",
+    "content": "This clause requires parties to notify each other in case of a data breach. It answers questions like: what happens if data is leaked. It typically includes timelines and reporting obligations."
+  },
+  {
+    "id": "doc_039",
+    "title": "Arbitration vs Litigation",
+    "category": "contract_law",
+    "content": "This concept compares arbitration and court litigation. It answers questions like: which dispute resolution method is better. Arbitration is private and faster, while litigation is public and more formal."
+  },
+  {
+    "id": "doc_040",
+    "title": "Automatic Renewal Clause",
+    "category": "contract_law",
+    "content": "An automatic renewal clause extends a contract unless terminated. It answers questions like: does my contract renew automatically. These clauses can create hidden obligations if not monitored."
+  },
+  {
+    "id": "doc_041",
+    "title": "Unilateral Modification Clause",
+    "category": "risk_assessment",
+    "content": "This clause allows one party to change contract terms without consent. It answers questions like: can the other side change terms anytime. It is considered high risk and often negotiated out."
+  },
+  {
+    "id": "doc_042",
+    "title": "Severability Clause",
+    "category": "contract_law",
+    "content": "A severability clause ensures that if one part of a contract is invalid, the rest remains enforceable. It answers questions like: does the whole contract fail if one clause is invalid."
+  },
+  {
+    "id": "doc_043",
+    "title": "Notice Clause",
+    "category": "contract_law",
+    "content": "A notice clause defines how parties must communicate formally. It answers questions like: how should legal notices be sent. It may specify email, registered mail, or courier."
+  },
+  {
+    "id": "doc_044",
+    "title": "Assignment Clause",
+    "category": "contract_law",
+    "content": "An assignment clause determines whether rights can be transferred. It answers questions like: can I transfer this contract to someone else. It may require consent from the other party."
+  },
+  {
+    "id": "doc_045",
+    "title": "Subcontracting Clause",
+    "category": "contract_law",
+    "content": "A subcontracting clause allows or restricts delegation of work. It answers questions like: can I outsource my obligations. It may require prior approval."
+  },
+  {
+    "id": "doc_046",
+    "title": "Change of Control Clause",
+    "category": "contract_law",
+    "content": "This clause addresses what happens if ownership of a party changes. It answers questions like: what if the company is acquired. It may allow termination."
+  },
+  {
+    "id": "doc_047",
+    "title": "Escalation Clause",
+    "category": "contract_law",
+    "content": "An escalation clause defines how disputes are escalated internally. It answers questions like: do we try internal resolution before legal action."
+  },
+  {
+    "id": "doc_048",
+    "title": "Good Faith Clause",
+    "category": "contract_law",
+    "content": "A good faith clause requires parties to act honestly. It answers questions like: must parties act fairly in performance. It prevents abuse of contractual rights."
+  },
+  {
+    "id": "doc_049",
+    "title": "Time is of the Essence Clause",
+    "category": "contract_law",
+    "content": "This clause makes deadlines critical. It answers questions like: what happens if deadlines are missed. Delays may be treated as breaches."
+  },
+  {
+    "id": "doc_050",
+    "title": "Survival Clause",
+    "category": "contract_law",
+    "content": "A survival clause specifies which obligations continue after termination. It answers questions like: what continues after contract ends. Common examples include confidentiality and IP."
+  }
+]
