@@ -16,7 +16,13 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 if not GROQ_API_KEY:
     raise ValueError("GROQ_API_KEY is not configured.")
-llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0)
+
+llm = ChatGroq(
+    model="llama-3.3-70b-versatile",
+    temperature=0,
+    groq_api_key=GROQ_API_KEY
+)
+
 embedder = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Dynamically load the documents from the JSON file
