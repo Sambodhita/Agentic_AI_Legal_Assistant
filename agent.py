@@ -12,6 +12,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ── 1. Setup Models & ChromaDB ──
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+
+if not GROQ_API_KEY:
+    raise ValueError("GROQ_API_KEY is not configured.")
 llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0)
 embedder = SentenceTransformer("all-MiniLM-L6-v2")
 
